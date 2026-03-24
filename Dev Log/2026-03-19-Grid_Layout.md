@@ -1,4 +1,4 @@
-# 📅 Data: 19/03/2026
+# 📅 Data: 19/03/26
 
 ## ⏱ Tempo de estudo:
     30 minutos
